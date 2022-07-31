@@ -1,6 +1,6 @@
 # linux kernel debug and disassemble with ida and vmware
 
-Helper script for Linux kernel disas and debugging with IDA Pro on VMware + GDB stub (including some symbols helpers)
+Helper script for Linux kernel disassemble or debugging with IDA Pro on VMware + GDB stub (including some symbols helpers)
 
 ![symsida](img/symsida.png)
 
