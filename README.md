@@ -178,6 +178,9 @@ Helper script for Windows kernel debugging with IDA Pro on VMware + GDB stub (in
 Helper script for Windows kernel debugging with IDA Pro on native Bochs debugger:
 - https://github.com/therealdreg/ida_bochs_windows
 
+Tools for Linux kernel debugging on Bochs (including symbols, native Bochs debugger and IDA PRO):
+https://github.com/therealdreg/bochs_linux_kernel_debugging
+
 # References
 
 https://www.hex-rays.com/wp-content/uploads/2019/12/debugging_gdb_linux_vmware.pdf
